@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "PROJECTS"
-    url: /projects/
-  - title: "RESUME"
-    url: /resume
+  # - title: "PROJECTS"
+  #   url: /projects/
+  # - title: "RESUME"
+  #   url: /resume
     
