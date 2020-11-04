@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "jeremymgibson_"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Jeremy M. Gibson"
   avatar           : "/assets/images/PphQuvw2_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Developer • Pizza Enthusiast • Dog Owner"
-  location         : "Saint Louis, MO"
-  email            : "jeremy@jeremymgibson.com"
+  bio              : "Software Developer • Dog Owner"
+  #location         : ""
+  email            : "jeremy [at] jeremymgibson [dot] com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
