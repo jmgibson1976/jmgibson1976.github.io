@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/PphQuvw2_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Developer • Dog Owner"
   #location         : ""
-  email            : "jeremy [at] jeremymgibson [dot] com"
+  #email            : "jeremy [at] jeremymgibson [dot] com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
